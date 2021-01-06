@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+Sitemap: https://ueniweb.com/sitemap/mr-detetive-zalla.xml
+Sitemap: https://mr-detetive-zalla.ueniweb.com/sitemap.xml
+Sitemap: https://ueniweb.com/sitemap-last-1000.xml
